@@ -12,7 +12,7 @@ CORES = ["preto", "verde", "amarelo", "vermelho"]
 
 # Como cada cor é mostrada no ecrã.
 SIMBOLOS = {
-    "preto": "⬛ Pretodsdsdfdfdfdf",
+    "preto": "⬛ Preto",
     "verde": "🟩 Verde",
     "amarelo": "🟨 Amarelo",
     "vermelho": "🟥 Vermelho",
